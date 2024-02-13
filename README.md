@@ -1,2 +1,2 @@
 Order summary component\
-DEMO:
+DEMO: https://order-summary-card-novakovic.netlify.app/
